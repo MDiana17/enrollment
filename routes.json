@@ -1,0 +1,23 @@
+[
+  {
+    "name": "bootstrap.min",
+    "path": "/bootstrap.min",
+    "component": "C:\\\\Users\\\\diana\\\\enrollment\\\\pages\\\\bootstrap.min.js",
+    "chunkName": "pages/bootstrap.min",
+    "_name": "_08f5bed1"
+  },
+  {
+    "name": "enrollment",
+    "path": "/enrollment",
+    "component": "C:\\\\Users\\\\diana\\\\enrollment\\\\pages\\\\enrollment.vue",
+    "chunkName": "pages/enrollment",
+    "_name": "_6a5a0388"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\diana\\\\enrollment\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_4dbccefe"
+  }
+]
